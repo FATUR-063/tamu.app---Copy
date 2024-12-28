@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "json 2",
+      "purpose": "Meeting",
+      "visitHour": "13.15",
+      "visitDate": "2024-12-19"
+    },
+    {
+      "id": 2,
+      "name": "json 1",
+      "purpose": "Interview",
+      "visitHour":"13.35",
+      "visitDate": "2024-12-18"
+    }
+  ]
+  
